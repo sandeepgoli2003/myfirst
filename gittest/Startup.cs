@@ -8,6 +8,7 @@ namespace gittest
     {
         public void Configuration(IAppBuilder app)
         {
+            //start up
             ConfigureAuth(app);
         }
     }
