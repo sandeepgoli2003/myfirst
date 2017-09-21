@@ -9,6 +9,7 @@ namespace gittest
         public void Configuration(IAppBuilder app)
         {
             //start up
+            // test moify
             ConfigureAuth(app);
         }
     }
