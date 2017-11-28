@@ -10,6 +10,7 @@ namespace gittest
         {
             //start up
             // test moify
+            //testing
             ConfigureAuth(app);
         }
     }
